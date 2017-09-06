@@ -80,6 +80,6 @@ deploy:
   type: git
   repo: https://github.com/TkJiangBo/tkjiangbo.github.com.git
   branch: master
-  message: test
+  message: konengscwd
   name: jiangbo
   email: 798341797@qq.com
